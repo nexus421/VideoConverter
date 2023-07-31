@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VIdeoConverter</string>
+    <string name="raw_input_hint">You can change the ffmpeg commands here. Default is a conversion from any compatible video format to mp4.\n"€1" will be replaced with each of your selected videos. €2 will be replaced with the output file destination including the original name. Changing €1 or €2 could make problems.</string>
+</resources>
